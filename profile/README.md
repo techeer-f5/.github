@@ -1,5 +1,9 @@
 ## 맛집 몬스터
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=techeer-f5&repo=jmt-monster-frontend&bg_color=e6fff3&title_color=4B7BE5&icon_color=4B7BE5&text_color=333333)](https://github.com/techeer-f5/jmt-monster-frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=techeer-f5&repo=jmt-monster-backend&bg_color=e6fff3&title_color=4B7BE5&icon_color=4B7BE5&text_color=333333)](https://github.com/techeer-f5/jmt-monster-backend)
+
+
 [프론트엔드](https://github.com/techeer-f5/jmt-monster-frontend) | [백엔드](https://github.com/techeer-f5/jmt-monster-backend)
 
 친구끼리 공유하는 수집형 맛집 어플리케이션 "맛집 몬스터"!
